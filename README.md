@@ -1,1 +1,30 @@
-At National Louis University, many students face challenges when registering for courses. The current registration system can be confusing and stressful, especially for first-year students, international students, transfer students, and those who do not follow a traditional academic path. Many of them are unsure about what classes to take and how to plan their schedule correctly. Based on surveys and informal conversations with students, several common issues were identified. A large number of students reported feeling overwhelmed during the registration process. Many students do not clearly understand their degree requirements or which courses they need to take next. In addition, technical problems are common, such as system lag, registration errors, and courses appearing full without clear explanation. The satisfaction data also shows a problem. Only 33.3% of students said they were satisfied with the current system, while 66.7% reported dissatisfaction. This suggests that the system does not meet students’ needs and creates unnecessary difficulties. From conversations with students, several important patterns appeared. Many students rely on friends or group chats instead of official university resources. Academic advisors are often difficult to access, especially during busy registration periods. First-year and international students experience more confusion than others. Students with more complex academic paths, such as transfer students, double majors, or those changing programs, face even more difficulties navigating the system. These findings show that the current registration system does not effectively support different types of students. To address these issues, several key questions can be asked. How can we make the registration process simpler and less overwhelming? How can we help students better understand course requirements and prerequisites? How can we support students with non-traditional academic paths so they can navigate registration more independently? Possible solutions include creating a more integrated and user-friendly planning system, improving the visibility of prerequisites and course sequences, adding an early warning system for registration conflicts, and providing a clear academic roadmap that helps students track their progress. These improvements would help reduce stress, increase confident and make the registration process easier and more efficient for all students.
+🚨 Problem Overview
+At National Louis University, many students face significant challenges when registering for courses. The current registration system can be confusing and stressful, especially for first-year students, international students, transfer students and those who do not follow a traditional academic path. Many students are unsure about which classes to take and how to plan their schedules effectively.
+📊 Key Issues
+Based on surveys and informal conversations with students, several common problems were identified:
+Many students feel overwhelmed during the registration process
+Lack of clear understanding of degree requirements
+Difficulty knowing which courses to take next
+Technical issues such as system lag and registration errors
+Courses appearing full without clear explanations
+Satisfaction data highlights this issue clearly:
+Only 33.3% of students are satisfied
+66.7% report dissatisfaction
+🔍 Observations
+From student feedback, several important patterns emerged:
+Students often rely on friends or group chats instead of official resources
+Academic advisors are difficult to access during busy periods
+First year and international students experience more confusion
+Transfer students, double majors and students changing programs face additional challenges
+These findings show that the current system does not effectively support the diverse needs of students.
+❓ Key Questions
+How can the registration process be simplified?
+How can students better understand course requirements and prerequisites?
+How can students with non traditional academic paths navigate registration independently?
+💡 Proposed Solutions
+Develop a more user friendly and integrated planning system
+Improve visibility of prerequisites and course sequences
+Add an early warning system for registration conflicts
+Provide a clear academic roadmap for tracking progress
+✅ Expected Impact
+These improvements would reduce stress, increase student confidence and make the registration process more efficient and user-friendly for all students.
